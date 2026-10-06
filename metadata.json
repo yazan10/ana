@@ -1,0 +1,7 @@
+{
+  "name": "YAZ PRO - Mobile Flashing & Repair Suite",
+  "description": "YAZ PRO - Professional web-based smartphone maintenance, Odin flashing, FRP removal, Qualcomm EDL 9008, MTK BROM bypass, and WebUSB/WebSerial diagnostic tool.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
